@@ -27,7 +27,7 @@ hr {
     margin-bottom: 2px;
 }
 
-#MainMenu {visibility: visible;}
+#MainMenu {visibility: hidden;}
 footer {visibility: hidden;}
 header {visibility: visible;}
 
