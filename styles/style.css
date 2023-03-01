@@ -1,8 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;1,100&display=swap');
 
 
-* {font-family: 'Montserrat';
-    font-size: 35px;}
+* {
+    font-family: 'Montserrat';
+    font-size: 35px;
+    color: white;
+}
 
 
 a {
@@ -27,11 +30,19 @@ hr {
     margin-bottom: 2px;
 }
 
-#MainMenu {visibility: hidden;}
-footer {visibility: hidden;}
-header {visibility: hidden;}
+#MainMenu {
+    visibility: visible;
+}
 
-button.css-5uatcg.edgvbvh10{
+footer {
+    visibility: hidden;
+}
+
+header {
+    visibility: hidden;
+}
+
+button.css-5uatcg.edgvbvh10 {
     background-color: #2B1A4B;
     width: fit-content;
 }
