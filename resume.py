@@ -58,7 +58,7 @@ with col2:
 st.write("#")
 st.header(f":orange[Objetivo]")
 st.write("""
-Buscando uma oportunidade em uma empresa data-driven onde eu possa aplicar meus conhecimentos em análise de dados e contribuir para o sucesso da empresa por meio da identificação de erros, tendências e oportunidades de crescimento
+Buscando desafios onde eu possa aplicar meus conhecimentos em análise de dados e contribuir para o sucesso da empresa por meio da identificação de erros, tendências e oportunidades de crescimento
 """)
 
 
@@ -74,10 +74,10 @@ st.write("---")
 st.write(
     """
 - ✔️ Ensino Médio completo - Colégio FAAT
-\n- ✔️ Idioma inglês - Avançado
+\n- ✔️ Idioma inglês - Intermediário
 \n- ✔️ Cursando graduação: Data Science - FIAP
 \n - ✔️ Realizando curso de Python - Hashtag Treinamentos
-\n - ✔️ Realizando curso de MySQL - Alura
+\n - ✔️ Realizando curso de MySQL, I.A e Apache Spark - Alura
 """)
 
 # ----------- skills ---------------------------
