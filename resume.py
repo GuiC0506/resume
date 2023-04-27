@@ -50,7 +50,7 @@ with col2:
                        data=arquivo,
                        file_name=curriculo.name,
                        mime="application/octet-stream")
-    st.write("📫 johndoe@gmail.com")
+    st.write("📫 exemplo@gmail.com")
     st.write(":telephone_receiver: (55) 11 91234-5678")
     for indice, (rede, link) in enumerate(redes_sociais.items()):
         st.write(f":computer: [{rede}]({link})")
